@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Deepesh Singh 👋
 
-<!--
-**its-deepesh/its-deepesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 BCA Student
+- 💻 Aspiring Full Stack Developer
+- 🌱 Currently learning C++, Python, Web Development, and DSA
+- 🏏 Cricket enthusiast and left-arm orthodox spinner
+- 🎯 Goal: Build impactful software and continuously improve my skills
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: C, C++, Java, Python
+- Web: HTML, CSS, JavaScript, PHP
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Backend Development
+- Responsive Web Design
+- Data Science and Cybersecurity
+
+## 🚀 Projects
+- Personal Resume Website
+- Student Registration Form
+- College Website
+- Rock Paper Scissor Game
+- Distraction free youtube
+- More projects coming soon...
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/deepesh-singh-8aa82134a
