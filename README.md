@@ -100,3 +100,9 @@ I'm a **BCA student** passionate about software development and problem-solving.
 ## 💡 Fun Fact
 
 > "I believe consistent learning and building real-world projects is the fastest way to grow as a developer."
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
