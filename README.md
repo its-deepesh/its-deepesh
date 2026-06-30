@@ -19,11 +19,10 @@
 - Data Science and Cybersecurity
 
 ## 🚀 Projects
-- Personal Resume Website
-- Student Registration Form
-- College Website
-- Rock Paper Scissor Game
-- Distraction free youtube
+- Personal Resume Website: https://github.com/its-deepesh/Resume.git
+- Profile Card: https://github.com/its-deepesh/profile-card.git
+- Rock Paper Scissor Game: https://github.com/its-deepesh/RockPaperScissor-using-Python.git
+- Distraction free youtube: https://github.com/its-deepesh/Distraction-free-youtube.git
 - More projects coming soon...
 
 ## 📫 Connect with Me
