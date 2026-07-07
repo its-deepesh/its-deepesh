@@ -55,6 +55,7 @@ I'm a **BCA student** passionate about software development and problem-solving.
 | **🎮 Rock Paper Scissors** | A command-line Python implementation of the classic Rock Paper Scissors game with user interaction and game logic. | Python |
 | **▶️ ResumFlow** | Made a landing page and login page of a site name ResumeFlow. | HTML, CSS, JavaScript |
 | **👤 Profile Card** | A modern and responsive profile card UI demonstrating HTML and CSS design fundamentals. | HTML, CSS |
+| **📊 Data Science** | A file containing concepts of Data Science using Python language | Python |
 
 ### 🔗 Repositories
 
