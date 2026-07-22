@@ -54,13 +54,13 @@ I'm a **BCA student** passionate about software development and problem-solving.
 | **📄 Resume Website** | A responsive personal resume website showcasing my skills, education, and projects using semantic HTML and CSS. | HTML, CSS |
 | **🎮 Rock Paper Scissors** | A command-line Python implementation of the classic Rock Paper Scissors game with user interaction and game logic. | Python |
 | **▶️ ResumFlow** | Made a landing page and login page of a site name ResumeFlow. | HTML, CSS, JavaScript |
-| **👤 Profile Card** | A modern and responsive profile card UI demonstrating HTML and CSS design fundamentals. | HTML, CSS |
+| **👤 ResumeFlow API** | Made backend APIs for the site named ResumeFlow | Javascript, Node.js, Express.js, Postman |
 | **📊 Data Science** | A file containing concepts of Data Science using Python language | Python |
 
 ### 🔗 Repositories
 
 - 📄 **Resume Website** → https://github.com/its-deepesh/Resume
-- 👤 **Profile Card** → https://github.com/its-deepesh/profile-card
+- 👤 **ResumeFlow API** → https://github.com/its-deepesh/ResumeFlow-api
 - 🎮 **Rock Paper Scissors** → https://github.com/its-deepesh/RockPaperScissor-using-Python
 - ▶️ **ResumeFlow** → https://github.com/its-deepesh/ResumeFlow
 - 📊 **Data Science** → https://github.com/its-deepesh/DataScienceWithPython
